@@ -1,0 +1,11 @@
+Model Information:
+* title:	Human Prototype
+* source:	https://sketchfab.com/3d-models/human-prototype-04ec0a7aab264d06ac5425f8d60f6d84
+* author:	shirofuji (https://sketchfab.com/shirofuji)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Human Prototype" (https://sketchfab.com/3d-models/human-prototype-04ec0a7aab264d06ac5425f8d60f6d84) by shirofuji (https://sketchfab.com/shirofuji) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
